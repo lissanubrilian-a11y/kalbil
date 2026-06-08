@@ -1,3 +1,4 @@
+# materi1
 # 1.Pengertian Persamaan Linear
 Sistem persamaan linear bisa diartikan sebagai suatu persamaan aljabar. Dimana persamaan linear sendiri memiliki karakteristik pada setiap sukunya mengandung konstanta atau perkalian konstanta dengan variabel tunggal. Persamaan tersebut disebut linear karena ada hubungan matematis yang digambarkan sebagai garis lurus dalam sistem koordinat Kartesius. Sistem koordinat tersebut akan menetapkan setiap titik secara unik dalam bidang dengan serangkaian koordinat numerik.
 
